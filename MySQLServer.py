@@ -1,3 +1,9 @@
+import mysql.connector
+
+
+
+        create_db_query = "CREATE DATABASE IF NOT EXISTS " + DATABASE
+
 
         create_tble_query = "CREATE TABLE IF NOT EXISTS books (id INT AUTO_INCREMENT PRIMARY KEY," \
         "title VARCHAR(255)," \
