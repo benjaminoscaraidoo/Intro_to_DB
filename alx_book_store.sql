@@ -1,4 +1,5 @@
 ["CREATE TABLE IF NOT EXISTS alx_book_store"]
+["author_id ", "author_name"]
 
 
 alx_book_store.sql doesn't contain: ["CREATE DATABASE IF NOT EXISTS alx_book_store"]
